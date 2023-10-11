@@ -1,6 +1,6 @@
 import React from "react";
 import { FlatList, StyleSheet, Text, View, Image } from "react-native";
-import { Placeholder } from "../assets/images";
+// import { Placeholder } from "../assets/images";
 
 const Skills = () => {
   // const skills = [
@@ -10,10 +10,6 @@ const Skills = () => {
 
   return (
     <View style={styles.container}>
-        <Image 
-        source={Placeholder}
-        style={{width: 200, height: 200}}
-        />
     </View>
   );
 };
