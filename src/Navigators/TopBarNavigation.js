@@ -13,11 +13,11 @@ export default function TopBarNavigation() {
     const insets = useSafeAreaInsets();
   return (
     <Tab.Navigator
-    initialRouteName="Home"
+    initialRouteName="Skills"
     screenOptions= {{
         swipeEnabled: false,
         tabBarActiveTintColor: '#e91e63',
-        tabBarInactiveTintColor: '#f8fafc',
+        tabBarInactiveTintColor: '#cbd5e1',
         tabBarPressColor: '#e91e63',
         tabBarStyle: { backgroundColor: '#0f172a' },
         tabBarIndicatorStyle: { backgroundColor: '#ea580c' },
