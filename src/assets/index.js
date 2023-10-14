@@ -1,0 +1,11 @@
+export const HTML = require("./images/icons/icons8-html-5-96.png");
+export const CSS = require("./images/icons/icons8-css-96.png");
+export const JS = require("./images/icons/icons8-js-96.png");
+export const REACT = require("./images/icons/icons8-react-native-96.png");
+export const CPP = require("./images/icons/icons8-c++-96.png");
+export const JAVA = require("./images/icons/icons8-java-96.png");
+export const CSHARP = require("./images/icons/icons8-c-sharp-logo-96.png");
+export const PYTHON = require("./images/icons/icons8-python-96.png");
+export const WORD = require("./images/icons/icons8-word-96.png");
+export const EXCEL = require("./images/icons/icons8-excel-96.png");
+export const POWERPOINT = require("./images/icons/icons8-powerpoint-96.png");

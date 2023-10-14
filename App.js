@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import { NavigationContainer } from "@react-navigation/native";
 
-import TopBarNavigation from "./src/Navigators/TopBarNavigation";
+import TopBarNavigation from "./src/navigators/TopBarNavigation";
 
 export default function App() {
   return (
